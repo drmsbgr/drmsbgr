@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/drmsbgr/drmsbgr/refs/heads/main/myjourney-profile-1764761173373.png" alt="Alternatif Metin" width="700">
+</p>
+
 # 💫 About Me:
 I'm currently studying software engineering. <br>I develop games in Unity and do 3D modeling in Blender.<br>I enjoy developing in C#. <br>I also enjoy making music and creating digital drawings as hobbies.<br>I'm looking forward to developing web and mobile apps in the future.
 
